@@ -12,3 +12,12 @@ The world's second most popular survey platform.
 <a href="https://mini-survey-monkey-eyd6fhfyesf6ezay.canadaeast-01.azurewebsites.net/">🌐 Web App</a> |
 <a href="https://mini-survey-monkey-eyd6fhfyesf6ezay.canadaeast-01.azurewebsites.net/banana">🍌 Banana</a>
 </p>
+
+## Table of contents
+
+<details>
+<summary>Expand contents</summary>
+
+- [Example](#example)
+
+</details>
