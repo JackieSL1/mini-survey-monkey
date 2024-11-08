@@ -20,6 +20,7 @@ The world's second most popular survey platform.
 
 - [Scope](#scope)
 - [Use cases](#use-cases)
+- [DB schema](#db-schema)
 - [Page descriptions](#page-descriptions)
 
 </details>
@@ -84,6 +85,11 @@ User should be able to add a multiple-choice question to their survey.
 
 ### Collect responses
 User should be able to share their survey and collect responses.
+
+## DB schema
+The following diagram can be updated using the [Diagrams.net Integration IntelliJ Plugin](https://plugins.jetbrains.com/plugin/15635-diagrams-net-integration).
+
+![DB schema](diagrams/db-schema.svg)
 
 ## Page descriptions
 Short descriptions of what each page does.
