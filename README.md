@@ -9,7 +9,7 @@ The world's second most popular survey platform.
 <p>
 
 <p align="center">
-<a href="https://mini-survey-monkey-eyd6fhfyesf6ezay.canadaeast-01.azurewebsites.net/">🌐 Web App</a> |
+<a href="https://mini-survey-monkey-eyd6fhfyesf6ezay.canadaeast-01.azurewebsites.net/home">🌐 Web App</a> |
 <a href="https://mini-survey-monkey-eyd6fhfyesf6ezay.canadaeast-01.azurewebsites.net/banana">🍌 Banana</a>
 </p>
 
@@ -19,7 +19,8 @@ The world's second most popular survey platform.
 <summary>Expand contents</summary>
 
 - [Scope](#scope)
-- [Use Cases](#use-cases)
+- [Use cases](#use-cases)
+- [Page descriptions](#page-descriptions)
 
 </details>
 
@@ -83,3 +84,10 @@ User should be able to add a multiple-choice question to their survey.
 
 ### Collect responses
 User should be able to share their survey and collect responses.
+
+## Page descriptions
+Short descriptions of what each page does.
+
+**Pages (in alphabetical order):**
+* `banana`: Health check endpoint.
+* `home`: Dashboard for surveyor to view all their surveys. Includes buttons to create new surveys and manage their surveys.
