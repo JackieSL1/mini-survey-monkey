@@ -9,7 +9,7 @@ The world's second most popular survey platform.
 <p>
 
 <p align="center">
-<a href="https://mini-survey-monkey-eyd6fhfyesf6ezay.canadaeast-01.azurewebsites.net/">🌐 Web App</a> |
+<a href="https://mini-survey-monkey-eyd6fhfyesf6ezay.canadaeast-01.azurewebsites.net/home">🌐 Web App</a> |
 <a href="https://mini-survey-monkey-eyd6fhfyesf6ezay.canadaeast-01.azurewebsites.net/banana">🍌 Banana</a>
 </p>
 
@@ -21,6 +21,7 @@ The world's second most popular survey platform.
 - [Scope](#scope)
 - [Use cases](#use-cases)
 - [DB schema](#db-schema)
+- [Page descriptions](#page-descriptions)
 
 </details>
 
@@ -89,3 +90,10 @@ User should be able to share their survey and collect responses.
 The following diagram can be updated using the [Diagrams.net Integration IntelliJ Plugin](https://plugins.jetbrains.com/plugin/15635-diagrams-net-integration).
 
 ![DB schema](diagrams/db-schema.svg)
+
+## Page descriptions
+Short descriptions of what each page does.
+
+**Pages (in alphabetical order):**
+* `banana`: Health check endpoint.
+* `home`: Dashboard for surveyor to view all their surveys. Includes buttons to create new surveys and manage their surveys.
